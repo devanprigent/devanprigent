@@ -19,7 +19,7 @@ Worked in multiple countries (France, South Korea, Germany, Spain), adapting qui
 
 ### Technical Skills
 - **Languages:** Python, TypeScript/JavaScript, SQL
-- **Backend:** Flask, Django, Node.js
+- **Backend:** FastAPI, Flask, Django, Node.js
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Test:** Pytest, Playwright
 - **Infra:** Docker, Git, CI/CD
@@ -34,5 +34,7 @@ Worked in multiple countries (France, South Korea, Germany, Spain), adapting qui
 
 #### Academic
 - [EzTracePython](https://github.com/devanprigent/eztracepython): Extension of an HPC tracing framework to support **Python** performance analysis. Written in **Python** and **C**.
+- [DNA Parallelization](https://github.com/devanprigent/dna-parallelization): Parallel DNA sequence matcher in **C** (**OpenMP**, **MPI**).
 - [Cassiopee](https://github.com/devanprigent/cassiopee): Course scheduling web app for instructors at Télécom SudParis. Built with **React** and **Django**.
+- [Hotel Reservation](https://github.com/devanprigent/hotel-reservation): Hotel Reservation Management Software. Written in **Java**.
 - [Reed Muller Code](https://github.com/devanprigent/reed-muller-code): Reed-Muller image error correction in **Python**.
