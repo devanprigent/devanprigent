@@ -29,7 +29,7 @@ Worked in multiple countries (France, South Korea, Germany, Spain), adapting qui
 #### Personnal
 - [Article Manager](https://github.com/Devannnn/article-manager) (current): Open-source read-it later web application. Built with **FastAPI**, **React**, and **PostgreSQL**.
 - [Portfolio](https://github.com/devanprigent/portfolio): Personal website written in pure **HTML** and **CSS**.
-- [Stocks Forecast](https://github.com/devanprigent/stocks-forecast): Portfolio growth simulator. Built with **React**.
+- [Stocks Forecast](https://github.com/devanprigent/stocks-forecast): Portfolio growth simulator. Built with **React** and **Express**.
 - [Guess Who](https://github.com/devanprigent/guess-who): Full-stack web implementation of the board game Guess Who. Built with **Angular** and **Node.js**.
 
 #### Academic
